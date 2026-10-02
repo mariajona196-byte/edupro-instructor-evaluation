@@ -1,0 +1,49 @@
+TeacherID,TeacherName,Age,Gender,Expertise,YearsOfExperience,TeacherRating
+T001,Aarav Sharma,41,Male,Data Science,21,4.51
+T002,Maya Mehta,34,Female,Business,8,3.99
+T003,Rohan Singh,31,Male,Design,24,4.64
+T004,Anika Patel,53,Female,Cybersecurity,19,4.35
+T005,Kabir Reddy,58,Male,Cloud Computing,2,3.65
+T006,Nisha Kapoor,27,Female,Digital Marketing,20,4.09
+T007,Dev Khan,52,Male,Data Science,18,4.14
+T008,Priya Gupta,54,Female,Business,8,4.1
+T009,Arjun Sharma,36,Male,Design,19,3.89
+T010,Isha Mehta,53,Female,Cybersecurity,23,4.83
+T011,Vikram Singh,47,Male,Cloud Computing,11,3.69
+T012,Sara Patel,31,Female,Digital Marketing,4,3.72
+T013,Aarav Reddy,42,Male,Data Science,13,4.35
+T014,Maya Kapoor,55,Female,Business,2,3.8
+T015,Rohan Khan,31,Male,Design,18,4.52
+T016,Anika Gupta,44,Female,Cybersecurity,18,4.52
+T017,Kabir Sharma,38,Male,Cloud Computing,21,3.59
+T018,Nisha Mehta,30,Female,Digital Marketing,23,3.7
+T019,Dev Singh,31,Male,Data Science,2,3.11
+T020,Priya Patel,32,Female,Business,8,3.13
+T021,Arjun Reddy,49,Male,Design,13,3.72
+T022,Isha Kapoor,49,Female,Cybersecurity,6,4.04
+T023,Vikram Khan,30,Male,Cloud Computing,12,3.84
+T024,Sara Gupta,36,Female,Digital Marketing,20,4.31
+T025,Aarav Sharma,50,Male,Data Science,18,3.95
+T026,Maya Mehta,40,Female,Business,9,3.46
+T027,Rohan Singh,29,Male,Design,22,3.86
+T028,Anika Patel,28,Female,Cybersecurity,8,4.15
+T029,Kabir Reddy,46,Male,Cloud Computing,11,3.63
+T030,Nisha Kapoor,57,Female,Digital Marketing,7,3.67
+T031,Dev Khan,35,Male,Data Science,13,4.17
+T032,Priya Gupta,34,Female,Business,9,3.34
+T033,Arjun Sharma,53,Male,Design,8,3.62
+T034,Isha Mehta,51,Female,Cybersecurity,19,3.59
+T035,Vikram Singh,58,Male,Cloud Computing,12,4.0
+T036,Sara Patel,31,Female,Digital Marketing,16,4.9
+T037,Aarav Reddy,36,Male,Data Science,2,3.55
+T038,Maya Kapoor,53,Female,Business,22,3.97
+T039,Rohan Khan,55,Male,Design,20,4.36
+T040,Anika Gupta,42,Female,Cybersecurity,17,4.07
+T041,Kabir Sharma,33,Male,Cloud Computing,18,4.01
+T042,Nisha Mehta,43,Female,Digital Marketing,22,4.08
+T043,Dev Singh,36,Male,Data Science,21,3.93
+T044,Priya Patel,26,Female,Business,15,4.11
+T045,Arjun Reddy,58,Male,Design,24,4.38
+T046,Isha Kapoor,58,Female,Cybersecurity,6,3.37
+T047,Vikram Khan,58,Male,Cloud Computing,4,3.69
+T048,Sara Gupta,38,Female,Digital Marketing,20,3.84

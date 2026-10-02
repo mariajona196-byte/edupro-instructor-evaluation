@@ -1,0 +1,121 @@
+CourseID,CourseName,CourseCategory,CourseLevel,CourseRating
+C001,Data Science Foundations 1,Technology,Beginner,4.81
+C002,Business Foundations 2,Business,Intermediate,4.35
+C003,Design Foundations 3,Creative,Advanced,4.12
+C004,Cybersecurity Foundations 4,Technology,Beginner,4.29
+C005,Cloud Computing Foundations 5,Technology,Intermediate,3.64
+C006,Digital Marketing Foundations 6,Marketing,Advanced,4.01
+C007,Data Science Foundations 7,Technology,Beginner,4.17
+C008,Business Foundations 8,Business,Intermediate,4.15
+C009,Design Foundations 9,Creative,Advanced,4.29
+C010,Cybersecurity Foundations 10,Technology,Beginner,4.65
+C011,Cloud Computing Foundations 11,Technology,Intermediate,3.8
+C012,Digital Marketing Foundations 12,Marketing,Advanced,3.45
+C013,Data Science Foundations 13,Technology,Beginner,4.9
+C014,Business Foundations 14,Business,Intermediate,3.99
+C015,Design Foundations 15,Creative,Advanced,4.54
+C016,Cybersecurity Foundations 16,Technology,Beginner,4.53
+C017,Cloud Computing Foundations 17,Technology,Intermediate,3.49
+C018,Digital Marketing Foundations 18,Marketing,Advanced,3.63
+C019,Data Science Foundations 19,Technology,Beginner,3.19
+C020,Business Foundations 20,Business,Intermediate,2.69
+C021,Design Foundations 21,Creative,Advanced,3.84
+C022,Cybersecurity Foundations 22,Technology,Beginner,4.3
+C023,Cloud Computing Foundations 23,Technology,Intermediate,3.65
+C024,Digital Marketing Foundations 24,Marketing,Advanced,4.17
+C025,Data Science Foundations 25,Technology,Beginner,4.19
+C026,Business Foundations 26,Business,Intermediate,3.26
+C027,Design Foundations 27,Creative,Advanced,3.86
+C028,Cybersecurity Foundations 28,Technology,Beginner,4.51
+C029,Cloud Computing Foundations 29,Technology,Intermediate,3.61
+C030,Digital Marketing Foundations 30,Marketing,Advanced,3.42
+C031,Data Science Foundations 31,Technology,Beginner,3.9
+C032,Business Foundations 32,Business,Intermediate,4.13
+C033,Design Foundations 33,Creative,Advanced,3.38
+C034,Cybersecurity Foundations 34,Technology,Beginner,3.41
+C035,Cloud Computing Foundations 35,Technology,Intermediate,3.87
+C036,Digital Marketing Foundations 36,Marketing,Advanced,4.81
+C037,Data Science Foundations 37,Technology,Beginner,3.64
+C038,Business Foundations 38,Business,Intermediate,4.2
+C039,Design Foundations 39,Creative,Advanced,4.12
+C040,Cybersecurity Foundations 40,Technology,Beginner,4.02
+C041,Cloud Computing Foundations 41,Technology,Intermediate,4.03
+C042,Digital Marketing Foundations 42,Marketing,Advanced,4.1
+C043,Data Science Foundations 43,Technology,Beginner,3.85
+C044,Business Foundations 44,Business,Intermediate,3.97
+C045,Design Foundations 45,Creative,Advanced,4.73
+C046,Cybersecurity Foundations 46,Technology,Beginner,3.13
+C047,Cloud Computing Foundations 47,Technology,Intermediate,3.86
+C048,Digital Marketing Foundations 48,Marketing,Advanced,3.84
+C049,Data Science Foundations 49,Technology,Beginner,4.47
+C050,Business Foundations 50,Business,Intermediate,3.83
+C051,Design Foundations 51,Creative,Advanced,4.95
+C052,Cybersecurity Foundations 52,Technology,Beginner,4.85
+C053,Cloud Computing Foundations 53,Technology,Intermediate,3.38
+C054,Digital Marketing Foundations 54,Marketing,Advanced,3.88
+C055,Data Science Foundations 55,Technology,Beginner,4.29
+C056,Business Foundations 56,Business,Intermediate,3.64
+C057,Design Foundations 57,Creative,Advanced,3.85
+C058,Cybersecurity Foundations 58,Technology,Beginner,4.95
+C059,Cloud Computing Foundations 59,Technology,Intermediate,3.44
+C060,Digital Marketing Foundations 60,Marketing,Advanced,3.75
+C061,Data Science Foundations 61,Technology,Beginner,3.99
+C062,Business Foundations 62,Business,Intermediate,3.89
+C063,Design Foundations 63,Creative,Advanced,4.09
+C064,Cybersecurity Foundations 64,Technology,Beginner,3.91
+C065,Cloud Computing Foundations 65,Technology,Intermediate,3.81
+C066,Digital Marketing Foundations 66,Marketing,Advanced,3.77
+C067,Data Science Foundations 67,Technology,Beginner,2.88
+C068,Business Foundations 68,Business,Intermediate,3.57
+C069,Design Foundations 69,Creative,Advanced,3.64
+C070,Cybersecurity Foundations 70,Technology,Beginner,4.26
+C071,Cloud Computing Foundations 71,Technology,Intermediate,3.58
+C072,Digital Marketing Foundations 72,Marketing,Advanced,4.32
+C073,Data Science Foundations 73,Technology,Beginner,3.96
+C074,Business Foundations 74,Business,Intermediate,3.65
+C075,Design Foundations 75,Creative,Advanced,4.03
+C076,Cybersecurity Foundations 76,Technology,Beginner,4.07
+C077,Cloud Computing Foundations 77,Technology,Intermediate,3.84
+C078,Digital Marketing Foundations 78,Marketing,Advanced,3.34
+C079,Data Science Foundations 79,Technology,Beginner,4.95
+C080,Business Foundations 80,Business,Intermediate,3.65
+C081,Design Foundations 81,Creative,Advanced,3.89
+C082,Cybersecurity Foundations 82,Technology,Beginner,3.05
+C083,Cloud Computing Foundations 83,Technology,Intermediate,4.45
+C084,Digital Marketing Foundations 84,Marketing,Advanced,4.59
+C085,Data Science Foundations 85,Technology,Beginner,3.75
+C086,Business Foundations 86,Business,Intermediate,4.23
+C087,Design Foundations 87,Creative,Advanced,4.34
+C088,Cybersecurity Foundations 88,Technology,Beginner,4.38
+C089,Cloud Computing Foundations 89,Technology,Intermediate,4.25
+C090,Digital Marketing Foundations 90,Marketing,Advanced,4.09
+C091,Data Science Foundations 91,Technology,Beginner,4.18
+C092,Business Foundations 92,Business,Intermediate,4.09
+C093,Design Foundations 93,Creative,Advanced,4.36
+C094,Cybersecurity Foundations 94,Technology,Beginner,3.14
+C095,Cloud Computing Foundations 95,Technology,Intermediate,3.11
+C096,Digital Marketing Foundations 96,Marketing,Advanced,4.06
+C097,Data Science Foundations 97,Technology,Beginner,4.89
+C098,Business Foundations 98,Business,Intermediate,3.98
+C099,Design Foundations 99,Creative,Advanced,4.53
+C100,Cybersecurity Foundations 100,Technology,Beginner,4.25
+C101,Cloud Computing Foundations 101,Technology,Intermediate,3.45
+C102,Digital Marketing Foundations 102,Marketing,Advanced,4.67
+C103,Data Science Foundations 103,Technology,Beginner,3.9
+C104,Business Foundations 104,Business,Intermediate,3.94
+C105,Design Foundations 105,Creative,Advanced,3.81
+C106,Cybersecurity Foundations 106,Technology,Beginner,4.79
+C107,Cloud Computing Foundations 107,Technology,Intermediate,3.42
+C108,Digital Marketing Foundations 108,Marketing,Advanced,3.48
+C109,Data Science Foundations 109,Technology,Beginner,4.49
+C110,Business Foundations 110,Business,Intermediate,3.68
+C111,Design Foundations 111,Creative,Advanced,4.54
+C112,Cybersecurity Foundations 112,Technology,Beginner,4.54
+C113,Cloud Computing Foundations 113,Technology,Intermediate,3.73
+C114,Digital Marketing Foundations 114,Marketing,Advanced,3.94
+C115,Data Science Foundations 115,Technology,Beginner,3.07
+C116,Business Foundations 116,Business,Intermediate,2.96
+C117,Design Foundations 117,Creative,Advanced,4.04
+C118,Cybersecurity Foundations 118,Technology,Beginner,4.46
+C119,Cloud Computing Foundations 119,Technology,Intermediate,3.85
+C120,Digital Marketing Foundations 120,Marketing,Advanced,4.58
